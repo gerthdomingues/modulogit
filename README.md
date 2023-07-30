@@ -1,3 +1,1 @@
-Meu primeiro sistema no Git.
-
-Primeira alteação no arquivo.
+Meu primeiro sistema no GIT (alterado e atualizado!)
